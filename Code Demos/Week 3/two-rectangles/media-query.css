@@ -1,0 +1,41 @@
+:root {
+  background-color: black;
+}
+
+body {
+  /* grid-template-columns: minmax(min-content, 30%) 1fr; */
+  grid-template-columns: 30% 70%;
+  /* grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); */
+  grid-gap: 1.3em;
+  padding: 3rem;
+  height: 100%;
+    display: grid;
+}
+
+section {
+  height: 85vh;
+  border-radius: 7em;
+  display: flex;
+  align-items: center;
+    background-color: white;
+}
+
+section p {
+  margin: 0 auto;
+  /* display: none; */
+}
+
+@media (max-width: 775px) {
+body {
+    grid-template-columns: 1fr;
+  }
+
+section:first-of-type {
+  height: 25vh;
+}
+
+section:last-of-type {
+  height: 60vh;
+}
+
+}

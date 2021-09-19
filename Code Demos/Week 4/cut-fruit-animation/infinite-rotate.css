@@ -1,0 +1,95 @@
+/* Global Styles & Variables */
+:root {
+  cursor: url(cursors/passionfruit.png), auto;
+  font-family: Courier, monospace;
+}
+
+/* Custom Cursors */
+img:hover {
+  cursor: url(cursors/mango3.png), auto;
+}
+
+img:nth-of-type(even):hover {
+  cursor: url(cursors/lychee.png), auto;
+}
+
+img:nth-of-type(odd):hover {
+  cursor: url(cursors/starfruit.png), auto;
+}
+
+img:nth-of-type(3n+0):hover {
+  cursor: url(cursors/pear.png), auto;
+}
+
+h1:hover {
+  cursor: url(cursors/kaki.png), auto;
+}
+
+p:hover {
+  cursor: url(cursors/mango.png), auto;
+}
+
+/* Jiggle Animation */
+.jiggle {
+  width: 10em;
+  transition: 0.5s ease;
+}
+
+.jiggle:active {
+  opacity: .1;
+  transition: 0.5s ease;
+}
+
+.jiggle:hover, .jiggle:focus {
+  animation: jiggle 1.5s alternate infinite linear;
+}
+
+@keyframes jiggle {
+  0% {
+    transform: rotate(10deg);
+  }
+
+  50% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(-10deg);
+  }
+}
+
+/* Infinite Rotate Animation */
+.mt-rotate {
+  text-align: center;
+  animation: rotate 25s linear infinite;
+}
+
+.mt-rotate:hover, .mt-rotate:focus {
+  animation-play-state: paused;
+}
+
+@keyframes rotate {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Footer Sticker Easter Egg */
+.footer-logo {
+  position: absolute;
+  overflow: hidden;
+  margin: 0 auto;
+  bottom: -10em;
+  width: 9em;
+}
+
+.footer-logo:hover, .footer-logo:focus {
+  animation: blastoff 1s forwards;
+  animation-iteration-count: 1;
+}
+
+@keyframes blastoff {
+  100% {
+    transform: translateY(-4em);
+  }
+}

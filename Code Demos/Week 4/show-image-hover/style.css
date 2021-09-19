@@ -1,0 +1,70 @@
+/* Global Styles */
+:root {
+  font-family: Arial, sans-serif;
+  font-size: calc(1em + 1vw + 1vh);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* padding: calc(1vw * 5); */
+}
+
+html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  place-items: center;
+}
+
+a {
+  color: inherit;
+}
+
+ol {
+  font-size: 3.5ch;
+}
+
+ol, li {
+  display: inline;
+}
+
+li+li {
+  margin-left: 1em;
+}
+
+img {
+  max-width: 50vw;
+  z-index: -1;
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  margin: auto;
+  opacity: 0;
+  transition: all 1s linear;
+}
+
+li a:hover~img, li a:focus~img {
+  opacity: 1;
+  transition: all 1s linear;
+}
+/* Hover Background */
+section p {
+  display: none;
+  visibility: hidden;
+}
+
+section {
+  display: none;
+  width: 400px;
+  height: 300px;
+  background-image: url(img/Bosch,_Hieronymus_-_The_Garden_of_Earthly_Delights,_center_panel_-_Detail_women_with_peacock.jpg);
+  background-size: contain;
+}
+
+section:hover {
+  background-image: url(img/Bosch_the_Prince_of_Hell_with_a_cauldron_on_his_head.JPG);
+}

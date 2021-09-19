@@ -1,0 +1,15 @@
+:root {
+  font-family: Cabinet Grotesk;
+  animation: 10s infinite alternate backgroundColor;
+  font-size: 150%;
+}
+
+@keyframes backgroundColor {
+  0% {
+    background-color: #cfe8b1;
+  }
+
+  100% {
+    background-color: #f7fb88;
+  }
+}

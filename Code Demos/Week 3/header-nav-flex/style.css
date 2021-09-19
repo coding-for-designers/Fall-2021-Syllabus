@@ -1,0 +1,34 @@
+:root {
+  background-color: black;
+  color: white;
+  font-family: Arial;
+  font-size: 200%;
+}
+
+a {
+  color: white;
+}
+
+a+a {
+  padding-left: 1em;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+nav a:first-of-type {
+  flex-grow: 1;
+}
+
+@media (max-width: 500px) {
+  nav {
+    display: grid;
+  }
+
+  nav a {
+    padding-left: 0;
+  }
+}

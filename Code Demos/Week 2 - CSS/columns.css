@@ -1,0 +1,12 @@
+section {
+  /* column-count: 2; */
+margin-top: 6rem;
+}
+
+figure {
+  column-count: 2;
+}
+
+img {
+  width: 100%;
+}

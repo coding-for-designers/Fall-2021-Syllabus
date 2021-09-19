@@ -1,0 +1,6 @@
+- Mindy Seu inspired [Hide Text Effect](https://meewgumi.github.io/coding-for-designers/hide-text.htm)
+- Index inspired [Hover word change](https://meewgumi.github.io/coding-for-designers/hover-word-change.htm)
+- OTF Font embed [Editorial Layout](https://meewgumi.github.io/coding-for-designers/editorial-layout/)
+- Variable Type and special features [Space Grotesk Demo]()
+- Fixed the [Portfolio Grid Layout](https://meewgumi.github.io/coding-for-designers/portfolio-grid-layout/portfolio.htm)
+- [Sliding Menu](https://meewgumi.github.io/coding-for-designers/sliding-menu.htm)

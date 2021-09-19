@@ -1,0 +1,22 @@
+/* Sources:
+https://www.nicesnippets.com/snippet/full-responsive-pure-css-masonry-grid-gallery#home
+https://css-tricks.com/guide-responsive-friendly-css-columns/
+*/
+body {
+  columns: 6;
+  column-gap: .5em;
+  column-width: 16em;
+}
+
+figure {
+  margin: 0;
+  padding: 0;
+}
+
+figure img {
+  width: 100%;
+}
+
+figcaption {
+  padding-bottom: 1em;
+}
