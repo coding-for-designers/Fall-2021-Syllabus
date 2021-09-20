@@ -27,7 +27,6 @@ By the end of this course, your website should be at least a seedling 🌱. You 
 - Course Agreement
 - Lecture Slides
 - [[Activity - Hello World Codepen]]
-- [Hello World Project](Hello%20World%20Project.md)
 - Classroom Gallery
 - [[Activity - File Organization Burger Site]]
 - Zoom Recording
@@ -37,19 +36,20 @@ By the end of this course, your website should be at least a seedling 🌱. You 
 - [ ] Read [Laurel Schwulst's article](https://thecreativeindependent.com/essays/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/)
 - [ ] Read ICD Course Reader > HTML Basics pages 1-7
 - [ ] Read ICD Course Reader > Programs & Tools > pages 1-3
-- [ ] Install Atom and set up your local file environment
-- [ ] [[Hello World Project]] on your computer
+- [ ] Finish [Activity - Hello World Codepen](Activity%20-%20Hello%20World%20Codepen.md)
+- [ ] Finish [Activity - File Organization Burger Site](Activity%20-%20File%20Organization%20Burger%20Site)
+- [ ] [Activity - Hello World Local File](Activity%20-%20Hello%20World%20Local%20File.md) on your computer
 	- [ ] Read the WHATWG documentation on HTML and pick one element to add to your page
 	- [ ] Submit screenshot to Classroom Gallery
 
 
 ## Week 2 - Browser as Design Tool
 - Mingle in Classroom Gallery
-	- Share [[Hello World Project]]
+	- Share [[Publishing Your Site Project]]
 - Reading discussion (Laurel Schwulst)
 - Lecture Slides
 - Actual Source Email Demo
-- [[Activity - Publishing Your Site]]
+- [Publishing Your Site Project](Publishing%20Your%20Site%20Project.md)
 - [[Activity - Burger Website Style Overide]]
 - Zoom Recording
 
@@ -69,7 +69,7 @@ Create a single HTML & CSS page and publish it to the web. Content ideas: early 
 - [ ] Read ICD Course Reader > CSS Basics pages 1-10
 - [ ] Read ICD Course Reader > Programs & Tools > pages 4-6
 - [ ] Read ICD Course Reader > Philosophy > Page 3
-- [ ] Finish [[Activity - Publishing Your Site]]
+- [ ] Finish [Publishing Your Site Project](Publishing%20Your%20Site%20Project.md)
 	- [ ] Post URL in Slack
 	- [ ] Post screenshot in Classroom Gallery
 - [ ] Finish [[Activity - Burger Website Style Overide]]
@@ -78,7 +78,7 @@ Create a single HTML & CSS page and publish it to the web. Content ideas: early 
 ## Week 3 - Digital Gardens
 - Mingle in Classroom Gallery
 	- Share [[Activity - Burger Website Style Overide]]
-	- Share [[Activity - Publishing Your Site]]
+	- Share [Publishing Your Site Project](Publishing%20Your%20Site%20Project.md)
 - Reading discussion (Charlie Trochlil)
 - Lecture Slides
 - [[Activity - Sticky Note Storm]]

@@ -1,5 +1,5 @@
 # Project 1
-## Hello World
+## Publishing Your Site
 By our next class meeting, please complete as many of these tasks as you can. Only Level 1 (the in-class activity) and Level 2 are required. I highly suggest completing all of the levels so you can get a feel for and decide on your favorite web server to work with moving forward.
 
 Goal: Understand how to publish an HTML page to a web server.
