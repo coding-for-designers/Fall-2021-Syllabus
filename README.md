@@ -1,4 +1,4 @@
-# Intro to Coding for Designers
+# ICD Syllabus
 **Fall 2021** at [index-space](https://index-space.org/products/intro-to-coding-for-designers-1)
 
 **Class:** Tuesdays 4–7pm EST
@@ -6,6 +6,11 @@
 **Instructor:** <a href="[https://megumi.co](https://megumi.co/)">Megumi Tanaka</a>(they/them) is a designer and educator from the Bay Area. [Email](mailto:hello@megumi.co) with any questions.
 
 **Learning Outcome:** Students will learn foundational web development and gain the ability to code static webpages from scratch. Students will learn to create fluid websites that are responsive by default.
+
+## Key Documents
+- Syllabus (You are here!)
+- [Getting Started](https://github.com/coding-for-designers/getting-started)
+- [ICD Course Reader](https://github.com/coding-for-designers/ICD-Course-Reader)
 
 ---
 
@@ -18,73 +23,64 @@ By the end of this course, your website should be at least a seedling 🌱. You 
 🌴 Use advanced CSS techniques and responsive/fluid design
 🏝 Add CSS or JS animation, effects, or interactive elements
 
+## Important Dates
+| Date | Event |
+| --- | --- |
+| Oct 5, 2021 | Mini-critique |
+| Oct 19, 2021 | Mini-critique |
+| Oct 26, 2021 | Final website critique |
+
 ---
 
 # Syllabus
 ## Week 1 - Hypertext Foundations
 - Introductions
 - Figjam Basics
-- Course Agreement
+- Course Agreement (Figjam)
 - Lecture Slides
-- [[Activity - Hello World Codepen]]
-- Classroom Gallery
-- [[Activity - File Organization Burger Site]]
-- Zoom Recording
+- [[Activity—Hello World Codepen]]
+- [Classroom Gallery](https://www.figma.com/community/file/850808867475521074/Classroom-Gallery) (Figjam)
+- [[Activity—Burger File Organization]]
 
 ### Homework
 - [ ] Join class Slack channel and say hi!
 - [ ] Read [Laurel Schwulst's article](https://thecreativeindependent.com/essays/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/)
 - [ ] Read ICD Course Reader > HTML Basics pages 1-7
 - [ ] Read ICD Course Reader > Programs & Tools > pages 1-3
-- [ ] Finish [Activity - Hello World Codepen](Activity%20-%20Hello%20World%20Codepen.md)
-- [ ] Finish [Activity - File Organization Burger Site](Activity%20-%20File%20Organization%20Burger%20Site)
-- [ ] [Activity - Hello World Local File](Activity%20-%20Hello%20World%20Local%20File.md) on your computer
-	- [ ] Read the WHATWG documentation on HTML and pick one element to add to your page
-	- [ ] Submit screenshot to Classroom Gallery
+- [ ] [Activity—Local Website](Activity—Local%20Website.md) on your computer
+	- [ ] Submit screenshot to Classroom Gallery in Figma
 
+---
 
 ## Week 2 - Browser as Design Tool
 - Mingle in Classroom Gallery
-	- Share [[Publishing Your Site Project]]
-- Reading discussion (Laurel Schwulst)
+- Collaborative Annotation (Laurel Schwulst)
 - Lecture Slides
 - Actual Source Email Demo
-- [Publishing Your Site Project](Publishing%20Your%20Site%20Project.md)
+- [Project—Publishing Your Site](Project—Publishing%20Your%20Site.md)
 - [[Activity - Burger Website Style Overide]]
-- Zoom Recording
-
-
-Codepen activity: write a stylesheet. Everyone gets the same HTML but a different CSS. take screenshot, download to your computer.
-Activity checklist: body background, font color, etc.
-Use system fonts reference
-
-Github setup (or other host), breakout rooms depending on which workflow
-
-Projects:
-Create a stylesheet for my HTML demo page, publish as a Github Fork
-Create a single HTML & CSS page and publish it to the web. Content ideas: early internet memory, metaphor for the web, under construction page
 
 ### Homework
 - [ ] Read [Charlie Trochlil's Digital Garden Article](https://garden.charlietrochlil.com/digital-garden)
 - [ ] Read ICD Course Reader > CSS Basics pages 1-10
 - [ ] Read ICD Course Reader > Programs & Tools > pages 4-6
 - [ ] Read ICD Course Reader > Philosophy > Page 3
-- [ ] Finish [Publishing Your Site Project](Publishing%20Your%20Site%20Project.md)
+- [ ] Finish [Project—Publishing Your Site](Project—Publishing%20Your%20Site.md)
 	- [ ] Post URL in Slack
 	- [ ] Post screenshot in Classroom Gallery
 - [ ] Finish [[Activity - Burger Website Style Overide]]
 - [ ] Complete Course Survey #1
 
+---
+
 ## Week 3 - Digital Gardens
 - Mingle in Classroom Gallery
-	- Share [[Activity - Burger Website Style Overide]]
-	- Share [Publishing Your Site Project](Publishing%20Your%20Site%20Project.md)
-- Reading discussion (Charlie Trochlil)
+	- Mini Critique
+- Collaborative Annotation (Charlie Trochlil)
 - Lecture Slides
 - [[Activity - Sticky Note Storm]]
 - [[Activity - Inspector Investigator]]
 - [[Activity - Site Builder Overrides]]
-- Zoom Recording
 
 ### Homework
 - [ ] Read Parimal Satyal's "Rediscovering the Small Web"
@@ -92,6 +88,8 @@ Create a single HTML & CSS page and publish it to the web. Content ideas: early 
 - [ ] Finish in class activities and share screenshot on Figjam
 - [ ] Final project—create index.htm and link to all your other pages, create custom CSS
 - [ ] Reflection—5 min where did you get stuck this week?
+
+---
 
 ## Week 4 - The Small Web
 - Mingle in Classroom Gallery
@@ -105,16 +103,15 @@ Create a single HTML & CSS page and publish it to the web. Content ideas: early 
 - [ ] Read Critical Engineering
 - [ ] Read ICD Course Reader > CSS Responsivity > 1-6
 - [ ] Read ICD Course Reader > CSS Typography > 1-3
-- [ ] HW: Publish a page with lots of text (Gutenberg poem), make it responsive OR add responsive technique to index.htm
+- [ ] HW: Add a responsive layout to your site and link to index.htm. Could be a list of things, a list of what you've learned, a list of metaphors for the web from earlier in class
 - [ ] Change font with either Google fonts or using fonts.css
 - [ ] Complete Course Survey #2
 
-HW: Add a responsive layout to your site and link to index.htm. Could be a list of things, a list of what you've learned, a list of metaphors for the web from earlier in class
-
-
+---
 
 ## Week 5 - Handmade Web
 - Mingle in Classroom Gallery
+	- Mini critique
 - Collaborative Annotation - J.R. Carpenter
 - Lecture Slides
 - Sticky Note Storm - Reflection—Handmade web applied to your practice
@@ -125,6 +122,7 @@ HW: Add a responsive layout to your site and link to index.htm. Could be a list 
 - Zoom Recording
 
 ### Homework
+*I would like to reorganize the course reader before week 5*
 - [ ] Read Zach Mandeville's "Basic HTML Competency is the new Punk-Folk Explosion!"
 - [ ] Read ICD Course Reader > CSS Hover Effects > 1-2
 - [ ] Read ICD Course Reader > CSS Advanced CSS > 1
@@ -136,20 +134,18 @@ HW: Add a responsive layout to your site and link to index.htm. Could be a list 
 	- [ ] Add screenshots and URL to Figjam Classroom Gallery
 - [ ] Bring a vintage or lo-fi device with wifi to the next class for testing!
 
+---
+
 ## Week 6 - Website as Craft
 Share your final project—a completely handmade website. Reflect on progress with your peers as we test each other's sites on vintage computing devices.
-
-Design for screens you cannot see
-
-- Reading discussion - modern webmaster
-- Present websites, critique
-- Test websites on old phones, share screenshots
 
 Make sure your final project is published by the start of class
 
 Classroom gallery Figjam template
 https://www.figma.com/community/file/850808867475521074/Classroom-Gallery
-Paste the site on your own device
+Paste the site screenshot from your own device
+
+---
 
 # Acknowledgments
-Thank you to everyone who gave me feedback when creating the curriculum. Leah Maldonado, Jesse Seegers, 
+A big thanks to [Elie Andersen](https://elie.live/), [Jacob Heftmann](https://www.jacobheftmann.com/), [Hugh Francis](https://twitter.com/_HHFF), and [Devin Halladay](https://devinhalladay.com/) for supporting my work at Index. Thank you to everyone who gave me feedback when creating the curriculum—[Leah Maldonado](https://leahmaldonado.com/), [Jesse Seegers](https://jesseseegers.com/), [Jake Brussel Faria](https://jakebf.com/), [Olga Geletina](https://index-space.org/products/intermediate-coding-for-designers), [Elina Tanaka](https://www.tanakajpeg.com/), and all the students who participated in the [first cohort](https://megu.space/coding-case-study.html) of ICD.

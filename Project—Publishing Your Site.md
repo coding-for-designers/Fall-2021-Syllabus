@@ -62,3 +62,10 @@ Post screenshot to Slack
 
 ### Pick your favorite!
 If you made it all the way to the end, you've gotten a great introduction to the different webserver options that exist today. You may have already gotten a feel for which interface or workflow you prefer, but if not, no worries! I often choose a server based on the tech stack and what sort of software I'd like to run on the server. Throughout this class, we will only be using HTML and CSS, so any of these options will work great for your personal site!
+
+**Tips:**
+- Think about `index` as an archival endeavor.
+- What information are you archiving on your site? Is it an index of your class projects? Your web inspiration? A list of things you want to learn or create?
+- Is it a list of your friends' websites? Books you've read this year or plan to read?
+- Is it a log of what you did each week in class? (This is a great way to retain information!)
+- Leave space for things you haven't made yet. For example, "What I learned in Week 2—_coming soon_"

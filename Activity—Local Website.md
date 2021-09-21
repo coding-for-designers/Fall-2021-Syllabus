@@ -12,7 +12,7 @@ Create a basic HTML page that says "Hello World" by using Atom, a code editor pr
 
 ![](attachments/Screen%20Shot%202021-09-19%20at%2010.20.06%20PM.png)
 
-2. Copy your HTML code from [Activity - Hello World Codepen](Activity%20-%20Hello%20World%20Codepen.md)
+2. Copy your HTML code from [Activity—Hello World Codepen](Activity—Hello%20World%20Codepen.md)
 3. Paste into your text editor
 4. Save file as `helloworld.htm`
 	1. Make sure your text editor doesn't add any other extensions, such as `.txt`
@@ -67,6 +67,16 @@ Here are some to get started with:
 - [Horizontal Rule](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hr)
 - [Tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
 - [Marquee](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/marquee)
+
+**Tips:**
+- Think about your final website project as an archival endeavor.
+- This is only your first experiment, so document it well!
+- What information are you archiving on your site? Is it an index of your class projects? Your web inspiration? A list of things you want to learn or create?
+- Is it a list of your friends' websites? Books you've read this year or plan to read?
+- Is it a log of what you did each week in class? (This is a great way to retain information!)
+- Leave space for things you haven't made yet. For example, "What I learned in Week 2—_coming soon_"
+- Check out my [HTML demo page](https://github.com/meewgumi/Coding-For-Designers/blob/main/Code%20Demos/Week%201%20-%20HTML/html.htm) for examples of suggested HTML elements
+- If you're having problems with your code, run it through the [WHATWG Validator](https://whatwg.org/validator/)
 
 ## Share your work
 **Share a screenshot of your page on the Classroom Gallery!**

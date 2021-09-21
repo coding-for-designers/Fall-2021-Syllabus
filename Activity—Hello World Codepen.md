@@ -40,4 +40,4 @@ Here are some to get started with:
 ## Saving your work
 (Optional) Create a Codepen account to save your pen
 
-Save your HTML code as a local `.htm` file on your computer in the next activity—[Activity - Hello World Local File](Activity%20-%20Hello%20World%20Local%20File.md)
+Save your HTML code as a local `.htm` file on your computer in the next activity—[Activity—Local Website](Activity—Local%20Website.md)
