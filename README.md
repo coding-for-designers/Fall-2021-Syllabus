@@ -42,7 +42,7 @@ By the end of this course, your website should be at least a seedling 🌱. You 
 - Course Agreement (Figjam)
 - Lecture Slides
 - [Activity—Hello World Codepen](Activity—Hello%20World%20Codepen.md)
-- [Classroom Gallery](https://www.figma.com/community/file/850808867475521074/Classroom-Gallery) (Figjam)
+- [Classroom Gallery](https://www.figma.com/file/kCxIi2trqMGKWuprqDPDUQ/0_Classroom_Gallery?node-id=0%3A1) (Figjam)
 - [Activity—Burger File Organization](Activity—Burger%20File%20Organization.md)
 
 ### Homework
@@ -51,7 +51,7 @@ By the end of this course, your website should be at least a seedling 🌱. You 
 - [ ] Read ICD Course Reader > HTML Basics pages 1-7
 - [ ] Read ICD Course Reader > Programs & Tools > pages 1-3
 - [ ] [Activity—Local Website](Activity—Local%20Website.md) on your computer
-	- [ ] Submit screenshot to Classroom Gallery in Figma
+	- [ ] Submit screenshot to [Classroom Gallery](https://www.figma.com/file/kCxIi2trqMGKWuprqDPDUQ/0_Classroom_Gallery?node-id=0%3A1) in Figma
 
 ---
 
