@@ -37,10 +37,8 @@ By the end of this course, your website should be at least a seedling 🌱. You 
 
 # Syllabus
 ## Week 1 - Hypertext Foundations
-- Introductions
-- Figjam Basics
-- Course Agreement (Figjam)
-- Lecture Slides
+- [Introductions](https://www.figma.com/file/jtMHI4xgpgYJLKVCGRK6Hr/1_Introductions?node-id=0%3A1)
+- [Slides PDF](Slides/week1.pdf)
 - [Activity—Hello World Codepen](Activity—Hello%20World%20Codepen.md)
 - [Classroom Gallery](https://www.figma.com/file/kCxIi2trqMGKWuprqDPDUQ/0_Classroom_Gallery?node-id=0%3A1) (Figjam)
 - [Activity—Burger File Organization](Activity—Burger%20File%20Organization.md)
@@ -48,15 +46,18 @@ By the end of this course, your website should be at least a seedling 🌱. You 
 ### Homework
 - [ ] Join class Slack channel and say hi!
 - [ ] Read [Laurel Schwulst's article](https://thecreativeindependent.com/essays/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/)
-- [ ] Read ICD Course Reader > HTML Basics pages 1-7
-- [ ] Read ICD Course Reader > Programs & Tools > pages 1-3
+- [ ] Read [ICD Course Reader](https://github.com/coding-for-designers/ICD-Course-Reader) > HTML Basics pages 1-7
+- [ ] Read [ICD Course Reader](https://github.com/coding-for-designers/ICD-Course-Reader) > Programs & Tools > pages 1-3
 - [ ] [Activity—Local Website](Activity—Local%20Website.md) on your computer
 	- [ ] Submit screenshot to [Classroom Gallery](https://www.figma.com/file/kCxIi2trqMGKWuprqDPDUQ/0_Classroom_Gallery?node-id=0%3A1) in Figma
+	- [ ] If you can't get it to work please share in Slack instead!
 
 ---
 
 ## Week 2 - Browser as Design Tool
-- Mingle in Classroom Gallery
+- Mingle in [Classroom Gallery](https://www.figma.com/file/kCxIi2trqMGKWuprqDPDUQ/0_Classroom_Gallery?node-id=0%3A1)
+- [Figjam Basics](https://www.figma.com/file/T1L4CcjlkaKIF6C1YohQk8/1_FigJam-Basics?node-id=0%3A1)
+- Course Agreement (Figjam)
 - Collaborative Annotation (Laurel Schwulst)
 - Lecture Slides
 - Actual Source Email Demo
