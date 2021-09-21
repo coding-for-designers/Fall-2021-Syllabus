@@ -34,7 +34,7 @@ Post screenshot to Slack
 11. Share a screenshot with the class!
 12. Share your Netlify URL
 
-![[Screen Shot 2021-08-14 at 6.05.41 PM.png]]
+![](Screen%20Shot%202021-08-14%20at%206.05.41%20PM.png)
 
 #### Netlify Bonus
 *Custom Domain Name*

@@ -17,10 +17,13 @@
 # Final Project
 By the end of this course, your website should be at least a seedling 🌱. You can accomplish seedling activities during class workshops, but for anything more than that, you'll need to devote time to your coding education outside of class. I recommend 2-3 hours a week of independent study and coding work to get to 🏝 level.
 
-**Assessment**
+## Assessment
 🌱 Publish a single column site with images, text, and links styled with basic CSS
+
 🌿 Publish a multi-column layout with intermediate CSS techniques
+
 🌴 Use advanced CSS techniques and responsive/fluid design
+
 🏝 Add CSS or JS animation, effects, or interactive elements
 
 ## Important Dates
@@ -38,9 +41,9 @@ By the end of this course, your website should be at least a seedling 🌱. You 
 - Figjam Basics
 - Course Agreement (Figjam)
 - Lecture Slides
-- [[Activity—Hello World Codepen]]
+- [Activity—Hello World Codepen](Activity—Hello%20World%20Codepen.md)
 - [Classroom Gallery](https://www.figma.com/community/file/850808867475521074/Classroom-Gallery) (Figjam)
-- [[Activity—Burger File Organization]]
+- [Activity—Burger File Organization](Activity—Burger%20File%20Organization.md)
 
 ### Homework
 - [ ] Join class Slack channel and say hi!
@@ -58,7 +61,7 @@ By the end of this course, your website should be at least a seedling 🌱. You 
 - Lecture Slides
 - Actual Source Email Demo
 - [Project—Publishing Your Site](Project—Publishing%20Your%20Site.md)
-- [[Activity - Burger Website Style Overide]]
+- [Activity - Burger Website Style Overide](Activity%20-%20Burger%20Website%20Style%20Overide)
 
 ### Homework
 - [ ] Read [Charlie Trochlil's Digital Garden Article](https://garden.charlietrochlil.com/digital-garden)
@@ -68,7 +71,7 @@ By the end of this course, your website should be at least a seedling 🌱. You 
 - [ ] Finish [Project—Publishing Your Site](Project—Publishing%20Your%20Site.md)
 	- [ ] Post URL in Slack
 	- [ ] Post screenshot in Classroom Gallery
-- [ ] Finish [[Activity - Burger Website Style Overide]]
+- [ ] Finish [Activity - Burger Website Style Overide](Activity%20-%20Burger%20Website%20Style%20Overide)
 - [ ] Complete Course Survey #1
 
 ---
@@ -78,9 +81,9 @@ By the end of this course, your website should be at least a seedling 🌱. You 
 	- Mini Critique
 - Collaborative Annotation (Charlie Trochlil)
 - Lecture Slides
-- [[Activity - Sticky Note Storm]]
-- [[Activity - Inspector Investigator]]
-- [[Activity - Site Builder Overrides]]
+- [Activity - Sticky Note Storm](Activity%20-%20Sticky%20Note%20Storm)
+- [Activity - Inspector Investigator](Activity%20-%20Inspector%20Investigator)
+- [Activity - Site Builder Overrides](Activity%20-%20Site%20Builder%20Overrides)
 
 ### Homework
 - [ ] Read Parimal Satyal's "Rediscovering the Small Web"
@@ -139,11 +142,7 @@ By the end of this course, your website should be at least a seedling 🌱. You 
 ## Week 6 - Website as Craft
 Share your final project—a completely handmade website. Reflect on progress with your peers as we test each other's sites on vintage computing devices.
 
-Make sure your final project is published by the start of class
-
-Classroom gallery Figjam template
-https://www.figma.com/community/file/850808867475521074/Classroom-Gallery
-Paste the site screenshot from your own device
+Make sure your final project is published to the [Figjam Classroom gallery](https://www.figma.com/community/file/850808867475521074/Classroom-Gallery) by the start of class
 
 ---
 
