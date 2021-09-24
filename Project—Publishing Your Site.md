@@ -7,7 +7,7 @@ Tip: If you use `<img>`, you must also upload the images to the server so that o
 
 ### Level 1
 Local machine, Atom
-This is a local webserver
+Finish activity from [Activity—Local Website](Activity—Local%20Website.md)
 Post screenshot to Slack
 
 ### Level 2
@@ -38,27 +38,36 @@ Post screenshot to Slack
 
 #### Netlify Bonus
 *Custom Domain Name*
+1. [Add a domain](https://docs.netlify.com/domains-https/netlify-dns/#add-a-domain) you own to Netlify
+2. Follow Netify's instructions to update DNS records with your domain registrar
 
 ### Level 4
 *Github Pages supports HTML, CSS, Javascript, and Jekyll.*
 1. Create a Github account if you haven't already (**Important: Your Github username will become your URL, so change your username now if you're not happy with it**)
-2. Create a new, empty repository on Github
-3. 
-8. Upload `index.htm` to your Github repository using any of these methods:
+2. Create a new **public** repository on Github named **username.github.io**
+	1. Important! Replace **username** with your username or it won't work!
+3. Click `Settings > Github Pages` to make sure Github Pages is working
+	1. If it's not, read my [instructions for Github Pages](https://github.com/coding-for-designers/ICD-Course-Reader/blob/main/Tutorials/Github%20Deployment.md) for the most common errors and how to fix them
+4. Upload `index.htm` to your Github repository using any of these methods:
 	1. On github.com, click `Add File > Create New File` and type your HTML manually in the browser
 	2. On github.com, click `Add File > Upload Files` and upload an HTML document from your computer
 	3. Install [Github Desktop](https://desktop.github.com/) and use it to auto-sync HTML files from a folder on your computer as you work on them through Atom (or other code editor)
-9. Visit your Netlify dashboard to make sure your Github repository is deployed
-10. Visit your Netlify URL and you should see `index.htm` !
+5. Your site should be available on **username.github.io** !
 11. Share a screenshot with the class!
 12. Share your Github Pages URL
 
 #### Github Pages Bonus
 *Custom Domain Name*
+[Instructions here](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
 
 ### Level 5
-*By buying your own webhosting plan, your bandwidth will not be throttled. This is recommended for your personal website if you want to have good uptime, want to upload lots of photos, or you anticipate growing your site to several thousand pageviews per month. Or if you just want to run on a green web host, since none of the free options are 100% renewable!*
-*This is the only option that costs money for hosting. Custom domain names will always cost money as a separate fee and can be through a different company than your webhost (aka server) company. Most Shared hosting plans support HTML, CSS, Javascript, PHP, and MySQL.*
+By buying your own webhosting plan, your bandwidth will not be throttled. This is recommended for your personal website if you want to have good uptime, want to upload lots of photos, or you anticipate growing your site to several thousand pageviews per month. Or if you just want to run on a green web host, since none of the free options are 100% renewable!
+
+This is the only option that costs money for hosting. Custom domain names will always cost money as a separate fee and can be through a different company than your webhost (aka server) company. Most Shared hosting plans support HTML, CSS, Javascript, PHP, and MySQL.
+
+I like using [Krystal UK](https://affiliate.k.io/go/QTbUFQzLFL)[^1] because it runs on 100% renewable energy (hydro, wind, solar). I use [Cyberduck](https://cyberduck.io/) (free FTP software) to upload files to the server. For domain registration, I usually use Dreamhost because they have super low prices and run on partially renewable energy.
+
+[^1]: Affiliate link. Use code `megumi10` for £10 off
 
 ### Pick your favorite!
 If you made it all the way to the end, you've gotten a great introduction to the different webserver options that exist today. You may have already gotten a feel for which interface or workflow you prefer, but if not, no worries! I often choose a server based on the tech stack and what sort of software I'd like to run on the server. Throughout this class, we will only be using HTML and CSS, so any of these options will work great for your personal site!
