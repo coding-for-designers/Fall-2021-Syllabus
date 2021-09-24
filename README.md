@@ -61,8 +61,8 @@ By the end of this course, your website should be at least a seedling 🌱. You 
 - Collaborative Annotation (Laurel Schwulst)
 - Lecture Slides
 - Actual Source Email Demo
-- [Project—Publishing Your Site](Project—Publishing%20Your%20Site.md)
-- [Activity - Burger Website Style Overide](Activity%20-%20Burger%20Website%20Style%20Overide)
+- [Project—Publishing Your Site](Project—Publishing%20Your%20Site.md)]
+- [Activity—Burger CSS](Activity—Burger%20CSS.md)
 
 ### Homework
 - [ ] Read [Charlie Trochlil's Digital Garden Article](https://garden.charlietrochlil.com/digital-garden)
@@ -72,7 +72,7 @@ By the end of this course, your website should be at least a seedling 🌱. You 
 - [ ] Finish [Project—Publishing Your Site](Project—Publishing%20Your%20Site.md)
 	- [ ] Post URL in Slack
 	- [ ] Post screenshot in Classroom Gallery
-- [ ] Finish [Activity - Burger Website Style Overide](Activity%20-%20Burger%20Website%20Style%20Overide)
+- [ ] Finish [Activity—Burger CSS](Activity—Burger%20CSS.md)
 - [ ] Complete Course Survey #1
 
 ---
