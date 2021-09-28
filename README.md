@@ -10,7 +10,7 @@
 ## Key Documents
 - Syllabus (You are here!)
 - [Getting Started](https://github.com/coding-for-designers/getting-started)
-- [ICD Course Reader](https://github.com/coding-for-designers/ICD-Course-Reader)
+- [ICD Course Reader](https://github.com/coding-for-designers/ICD-Course-Reader) - send me your Github username for access
 
 ---
 
@@ -55,25 +55,25 @@ By the end of this course, your website should be at least a seedling 🌱. You 
 ---
 
 ## Week 2 - Browser as Design Tool
-- Mingle in [Classroom Gallery](https://www.figma.com/file/kCxIi2trqMGKWuprqDPDUQ/0_Classroom_Gallery?node-id=0%3A1)
+- Week 1 review
 - [Figjam Basics](https://www.figma.com/file/T1L4CcjlkaKIF6C1YohQk8/1_FigJam-Basics?node-id=0%3A1)
-- Course Agreement (Figjam)
+- Intro to [Classroom Gallery](https://www.figma.com/file/kCxIi2trqMGKWuprqDPDUQ/0_Classroom_Gallery?node-id=0%3A1)
 - Collaborative Annotation (Laurel Schwulst)
-- Lecture Slides
-- Actual Source Email Demo
-- [Project—Publishing Your Site](Project—Publishing%20Your%20Site.md)]
-- [Activity—Burger CSS](Activity—Burger%20CSS.md)
+- Lecture Slides—CSS
+- Actual Source Email [Demo](https://mailchi.mp/49d14e17f6ad/actual-source-spring-sale2021)
+- Studio time: [Project—Publishing Your Site](Project—Publishing%20Your%20Site.md)
 
 ### Homework
+- [ ] Complete [Typeform Survey](https://9xfos9awugs.typeform.com/to/deZSF4ic)
 - [ ] Read [Charlie Trochlil's Digital Garden Article](https://garden.charlietrochlil.com/digital-garden)
-- [ ] Read ICD Course Reader > CSS Basics pages 1-10
-- [ ] Read ICD Course Reader > Programs & Tools > pages 4-6
-- [ ] Read ICD Course Reader > Philosophy > Page 3
 - [ ] Finish [Project—Publishing Your Site](Project—Publishing%20Your%20Site.md)
-	- [ ] Post URL in Slack
-	- [ ] Post screenshot in Classroom Gallery
-- [ ] Finish [Activity—Burger CSS](Activity—Burger%20CSS.md)
-- [ ] Complete Course Survey #1
+- [ ] Complete [Activity—Burger CSS](Activity—Burger%20CSS.md)
+
+### Course Reader Sections
+[ICD Course Reader](https://github.com/coding-for-designers/ICD-Course-Reader) relevant sections for reference:
+- CSS Basics pages 1-10
+- Programs & Tools > pages 4-6
+- Philosophy > Page 3
 
 ---
 

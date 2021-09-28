@@ -1,10 +1,14 @@
 # Resources
-*This page needs to be organized and adapted for fall cohort*
+*This page is in the process of being organized and adapted for fall cohort*
 
+## General Principles
 >"**Good things come to those who wait:** Projects sometimes take time to flourish. Avoid over-optimizing when you start out – many small steps over a longer period can lead to great things."
 >
 > [Web design principle 9: Use small and slow solutions](https://allcodesarebeautiful.com/en/permaculture-principle-9/ "Web design principle 9: Use small and slow solutions"), allcodesarebeautiful
 
+## HTML
+- [List of HTML elements](https://html.spec.whatwg.org/multipage/#toc-semantics) from the current maintainers of HTML - the WHATWG
+- [Intro to HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) from the MDN Web Docs
 - [HTML Accessibility](https://www.w3schools.com/html/html_accessibility.asp) - tips on which elements to use for semantic meaning
 - [Organize your text content](https://thomasorus.com/organize-your-text-content.html) - More tips on HTML elements
 - [What is alt-text and why is it important?](https://poetry.arizona.edu/blog/what-alt-text-and-why-it-important) - Best practices for alt text as poetry
@@ -13,18 +17,19 @@
 >
 >[Multi-column manipulation](https://every-layout.dev/blog/multi-column-manipulation/), Every Layout
 
-## Optional Reading
 - [Build an Under Construction Page](https://www.zinesbyjackie.com/activities/build-an-under-construction-page) - 90s inspired activity with step by step HTML generation
 - [On Gathering](https://www.shiftspace.pub/on-gathering-mindy-seu) - Article by Mindy Seu
 	- As you read, think about the connotation of the word `index` as the default page
 - [WHATWG's Living Standard](https://html.spec.whatwg.org/multipage/introduction.html#history-2) - explanation for the drama between browsers and the W3, why we're in a post-HTML5 world
+- https://html.energy/ - Podcast on HTML
 
- [system stack](https://css-tricks.com/snippets/css/font-stacks/)
-- Use [CSS Validator](https://jigsaw.w3.org/css-validator/validator.html.en#validate-by-input) to check for errors
-## Required Reading
+
+## CSS
 - [CSS Reference](https://www.w3schools.com/cssref/) - list of CSS Properties
+- [system stack](https://css-tricks.com/snippets/css/font-stacks/)
+- Use [CSS Validator](https://jigsaw.w3.org/css-validator/validator.html.en#validate-by-input) to check for errors
 - [wrapped up in curly braces](https://curly-braces.hashbase.io/) - a love letter to css. Also a walkthrough of basic CSS concepts, history, and properties to get started with!
-- [CSS System Font Stacks](https://css-tricks.com/snippets/css/font-stacks/) - Add these to `:root` or `body` to set your page's typeface using fonts most people already have installed. We'll embed custom typefaces in [Week 5 - Animation](Week%205%20-%20Animation.md).
+- [CSS System Font Stacks](https://css-tricks.com/snippets/css/font-stacks/) - Add these to `:root` or `body` to set your page's typeface using fonts most people already have installed.
 - [Units](https://every-layout.dev/rudiments/units/) - How to use CSS units algorithmically instead of defining every `px` manually
 - [CSS pro tips: responsive font-sizes and when to use which units](https://bits.theorem.co/css-pro-tips-responsive-font-sizes-and-when-to-use-which-units/) - One line hack for responsive typography sizing, building on the theory in "Units" above
 
@@ -40,7 +45,6 @@ https://every-layout.dev/rudiments/axioms/
 >"I think we've reached the point where html/css is more powerful, and nicer to use than ever before. Instead of starting with a giant template filled with .js includes, it's now okay to just write plain HTML from scratch again.“
 >https://jeffhuang.com/designed_to_last/
 
-## Optional Reading
 - [Old CSS, New CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/) - a history of CSS by a web designer who has been coding since the 90s.
 	- As you read, think about the Space Jam case study and how difficult it would be to maintain page styling using those methods today
 	- Think about how archaic techniques such as `float` and `div` for layout are still widespread. "The web is still a _little bit_ of a disaster. A lot of folks don’t even know that flexbox and grid are supported [almost universally](https://www.caniuse.com/#feat=css-grid) now"

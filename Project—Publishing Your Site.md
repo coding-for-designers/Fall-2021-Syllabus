@@ -1,24 +1,27 @@
 # Project 1
 ## Publishing Your Site
-By our next class meeting, please complete as many of these tasks as you can. Only Level 1 (the in-class activity) and Level 2 are required. I highly suggest completing all of the levels so you can get a feel for and decide on your favorite web server to work with moving forward.
+This activity builds on [last week's Local Website activity](Activity—Local%20Website.md) to publish your work to the world wide web!
 
-Goal: Understand how to publish an HTML page to a web server.
-Tip: If you use `<img>`, you must also upload the images to the server so that other people can see them!
+Goal: Publish an HTML page to the web server of your choice.
 
-### Level 1
-Local machine, Atom
-Finish activity from [Activity—Local Website](Activity—Local%20Website.md)
-Post screenshot to Slack
+Tip: If you use `<img>`, you must also upload the images to the server so that other people can see them! It's best practice to upload images to your own server so that you're not using someone else's bandwidth.
 
-### Level 2
-*Neocities is a revitalization of popular 00's webhost "Geocities". By creating a free account, you will be issued a subdomain (subdomain.neocities.org) as a web URL you can share with the public. Your content is hosted on Neocities' servers, which support HTML, CSS, and Javascript.*
+### Level 1—Neocities
+**Best for beginners! Includes HTML walkthrough to publish index.html, good review of what we covered last week!**
+
+*Neocities is a revitalization of popular 00's webhost "Geocities". By creating a free account, you will be issued a subdomain (`username.neocities.org`) as a web URL you can share with the public. Your content is hosted on Neocities' servers, which support HTML, CSS, and Javascript.*
 1. Create a free account on [Neocities](https://neocities.org/)
-2. Use their HTML Editor to publish `index.htm`
+2. Use the HTML Editor to publish `index.htm`
+	1. Follow the HTML tutorial!
 3. Share a screenshot with the class!
 4. Share your Neocities URL
 
-### Level 3
-*Netlify supports HTML, CSS, Javascript, and Ruby.*
+Suggestion: Maintain your files in your local system with Atom, in case the online code editor has an error. That way, you won't lose your work. Just copy + paste to Neocities every time you want to upload a change!
+
+### Level 2—Netlify
+**Good if you want to learn how to use Github for version control**
+
+*Netlify supports HTML, CSS, Javascript, and Ruby. Sync files to your Github repository from your local computer, and they'll automatically push to your Netlify website. Your URL will be `random.netlify.app`*
 1. Create a Github account if you haven't already
 2. Create a new, empty repository on Github
 3. Create a free [Netlify](https://www.netlify.com/pricing/) account
@@ -34,15 +37,15 @@ Post screenshot to Slack
 11. Share a screenshot with the class!
 12. Share your Netlify URL
 
-![](Screen%20Shot%202021-08-14%20at%206.05.41%20PM.png)
-
 #### Netlify Bonus
 *Custom Domain Name*
 1. [Add a domain](https://docs.netlify.com/domains-https/netlify-dns/#add-a-domain) you own to Netlify
 2. Follow Netify's instructions to update DNS records with your domain registrar
 
-### Level 4
-*Github Pages supports HTML, CSS, Javascript, and Jekyll.*
+### Level 3—Github
+**Harder to set up than Netlify, but has more free space & bandwidth**
+
+*Github Pages supports HTML, CSS, Javascript, and Jekyll. Your URL will be `username.github.io`*
 1. Create a Github account if you haven't already (**Important: Your Github username will become your URL, so change your username now if you're not happy with it**)
 2. Create a new **public** repository on Github named **username.github.io**
 	1. Important! Replace **username** with your username or it won't work!
@@ -60,7 +63,9 @@ Post screenshot to Slack
 *Custom Domain Name*
 [Instructions here](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
 
-### Level 5
+### Level 4—Self Hosting
+**Good if you want to learn how to work with PHP apps such as Wordpress**
+
 By buying your own webhosting plan, your bandwidth will not be throttled. This is recommended for your personal website if you want to have good uptime, want to upload lots of photos, or you anticipate growing your site to several thousand pageviews per month. Or if you just want to run on a green web host, since none of the free options are 100% renewable!
 
 This is the only option that costs money for hosting. Custom domain names will always cost money as a separate fee and can be through a different company than your webhost (aka server) company. Most Shared hosting plans support HTML, CSS, Javascript, PHP, and MySQL.
