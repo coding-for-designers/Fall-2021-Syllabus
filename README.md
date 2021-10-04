@@ -79,19 +79,28 @@ By the end of this course, your website should be at least a seedling 🌱. You 
 
 ## Week 3 - Digital Gardens
 - Mingle in Classroom Gallery
-	- Mini Critique
-- Collaborative Annotation (Charlie Trochlil)
+- Week 2 Review Codepen
+- Discuss Reading (Charlie Trochlil)
 - Lecture Slides
-- [Activity - Sticky Note Storm](Activity%20-%20Sticky%20Note%20Storm)
-- [Activity - Inspector Investigator](Activity%20-%20Inspector%20Investigator)
-- [Activity - Site Builder Overrides](Activity%20-%20Site%20Builder%20Overrides)
+- [Activity—Inspector Investigator](Activity—Inspector%20Investigator.md)
 
 ### Homework
-- [ ] Read Parimal Satyal's "Rediscovering the Small Web"
-- [ ] Read ICD Course Reader > CSS Layout Techniques > 1-7
-- [ ] Finish in class activities and share screenshot on Figjam
-- [ ] Final project—create index.htm and link to all your other pages, create custom CSS
-- [ ] Reflection—5 min where did you get stuck this week?
+- [ ] Read Parimal Satyal's [Rediscovering the Small Web](https://neustadt.fr/essays/the-small-web/)
+- [ ] Finish in class activities and share screenshot in Classroom Gallery
+- [ ] Final project—publish custom CSS to your website
+
+### Course Reader Sections
+[ICD Course Reader](https://github.com/coding-for-designers/ICD-Course-Reader) relevant sections for reference:
+
+- [ ] [Web Inspector](https://github.com/coding-for-designers/ICD-Course-Reader/blob/main/Tutorials/Web%20Inspector.md)
+- [ ] [Common CSS Properties](https://github.com/coding-for-designers/ICD-Course-Reader/blob/main/Tutorials/Common%20CSS%20Properties.md)
+- [ ] [Display & Visibility](https://github.com/coding-for-designers/ICD-Course-Reader/blob/main/Tutorials/Display%20&%20Visibility.md)
+- [ ] [Inline vs Linked Stylesheet](https://github.com/coding-for-designers/ICD-Course-Reader/blob/main/Tutorials/Inline%20vs%20Linked%20Stylesheet.md)
+- [ ] [Aligning to Center](https://github.com/coding-for-designers/ICD-Course-Reader/blob/main/Tutorials/Aligning%20to%20Center.md)
+- [ ] [Breakpoints](https://github.com/coding-for-designers/ICD-Course-Reader/blob/main/Tutorials/Breakpoints.md)
+- [ ] [Flexbox](https://github.com/coding-for-designers/ICD-Course-Reader/blob/main/Tutorials/Flexbox.md)
+- [ ] [Grids](https://github.com/coding-for-designers/ICD-Course-Reader/blob/main/Tutorials/CSS%20Grids.md)
+- [ ] [Sticky Elements](https://github.com/coding-for-designers/ICD-Course-Reader/blob/main/Tutorials/Sticky%20Elements.md)
 
 ---
 
