@@ -32,7 +32,7 @@ Suggestion: Maintain your files in your local system with Atom, in case the onli
 	1. On github.com, click `Add File > Create New File` and type your HTML manually in the browser
 	2. On github.com, click `Add File > Upload Files` and upload an HTML document from your computer
 	3. Install [Github Desktop](https://desktop.github.com/) and use it to auto-sync HTML files from a folder on your computer as you work on them through Atom (or other code editor)
-9. Visit your Netlify dashboard to make sure your Github repository is deployed
+9. Visit your Netlify dashboard and locate your Netlify URL
 10. Visit your Netlify URL and you should see `index.htm` !
 11. Share a screenshot with the class!
 12. Share your Netlify URL
