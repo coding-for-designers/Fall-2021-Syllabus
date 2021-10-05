@@ -150,3 +150,8 @@ border-radius: 100%;
 Save your custom CSS. Now only that specific button will change.
 
 Squarespace adds these unique IDs to every single section in your template. As you create new sections, you can always click in to select and change them individually by ID.
+
+If this doesn't work, add `!important` to your code. (See [Specificity](https://github.com/coding-for-designers/ICD-Course-Reader/blob/main/Tutorials/Order%20Matters%20-%20The%20Cascade.md) for details)
+
+## Your own website
+To customize your own site, all you have to know is [Specificity](https://github.com/coding-for-designers/ICD-Course-Reader/blob/main/Tutorials/Order%20Matters%20-%20The%20Cascade.md)! No need for fancy data attributes or IDs. :)
