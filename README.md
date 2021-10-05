@@ -83,6 +83,7 @@ By the end of this course, your website should be at least a seedling 🌱. You 
 - Discuss Reading (Charlie Trochlil)
 - Lecture Slides
 - [Activity—Inspector Investigator](Activity—Inspector%20Investigator.md)
+- [Activity—Site Builder Customization](Activity—Site%20Builder%20Customization.md)
 
 ### Homework
 - [ ] Read Parimal Satyal's [Rediscovering the Small Web](https://neustadt.fr/essays/the-small-web/)
