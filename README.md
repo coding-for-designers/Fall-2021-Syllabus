@@ -109,7 +109,6 @@ By the end of this course, your website should be at least a seedling 🌱. You 
 - Mingle in Classroom Gallery
 - Discuss The Small Web by Parimal Satyal
 - Slides --> Browser as design tool
-- [Activity—Inspector Investigator](Activity—Inspector%20Investigator.md)
 - [Activity—Poster Design](Activity—Poster%20Design.md)
 
 ### Homework
@@ -117,6 +116,7 @@ By the end of this course, your website should be at least a seedling 🌱. You 
 - [ ] Read [Critical Engineering Manifesto](https://criticalengineering.org/)
 - [ ] Add custom font to your site with either [Google Fonts](https://www.w3schools.com/csS/css_font_google.asp) or [fonts.css](https://github.com/coding-for-designers/ICD-Course-Reader/blob/main/Tutorials/Custom%20font%20embeds.md)
 - [ ] Add at least one secondary page to your site and link to it from `index.htm`
+	- [ ] Use the demos i've written [here](https://github.com/coding-for-designers/demos)
 - [ ] Complete [Activity—Poster Design](Activity—Poster%20Design.md)
 - [ ] Complete [Course Survey](https://qf60sr898z1.typeform.com/to/MuaAdmjo) <-- New link!!
 
@@ -129,6 +129,7 @@ By the end of this course, your website should be at least a seedling 🌱. You 
 - [ ] [Sticky Elements](https://github.com/coding-for-designers/ICD-Course-Reader/blob/main/Tutorials/Sticky%20Elements.md)
 - [ ] [Z-Index](https://github.com/coding-for-designers/ICD-Course-Reader/blob/main/Tutorials/Z-Index.md)
 - [ ] [Position](https://github.com/coding-for-designers/ICD-Course-Reader/blob/main/Tutorials/Position.md)
+- [ ] - [Activity—Inspector Investigator](Activity—Inspector%20Investigator.md) (Updated with demo link!)
 
 
 ---
