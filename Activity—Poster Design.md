@@ -4,7 +4,9 @@
   Upload the page to your website and share with the class!
   
   Example:
+  
   ![](attachments/Screen%20Shot%202021-10-11%20at%2010.26.14%20PM.png)
+  
   [https://codepen.io/meewgumi/pen/GRvgQBa](https://codepen.io/meewgumi/pen/GRvgQBa)
   
  ## Objective
