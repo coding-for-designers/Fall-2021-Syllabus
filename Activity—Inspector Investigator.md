@@ -1,3 +1,11 @@
+# Update
+Use the demos I've written at this link:
+https://github.com/coding-for-designers/demos
+
+Pick a demo and choose one (1) effect to steal for your own website! Rinse & Repeat.
+
+Apply to your personal website or try the [Activity—Site Builder Customization](Activity—Site%20Builder%20Customization.md)
+
 # How to steal (responsibly)
 Use the inspector to figure out how any website works! In my demo, I'll go through [this site](https://www.aqnb.com/2017/11/22/anja-kaiser-talks-alternative-narrations-of-bodies-new-online-commission-bye-default-in-the-run-up-to-3hd-festival/)
 

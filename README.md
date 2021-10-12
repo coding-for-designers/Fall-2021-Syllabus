@@ -107,19 +107,29 @@ By the end of this course, your website should be at least a seedling 🌱. You 
 
 ## Week 4 - The Small Web
 - Mingle in Classroom Gallery
-- Collaborative Annotation - Parimal Satyal
-- Lecture Slides
-- Responsive Design Demo
-- Zoom Recording
+- Discuss The Small Web by Parimal Satyal
+- Slides --> Browser as design tool
+- [Activity—Inspector Investigator](Activity—Inspector%20Investigator.md)
+- [Activity—Poster Design](Activity—Poster%20Design.md)
 
 ### Homework
-- [ ] Read J.R. Carpenter's "Handmade Web"
-- [ ] Read Critical Engineering
-- [ ] Read ICD Course Reader > CSS Responsivity > 1-6
-- [ ] Read ICD Course Reader > CSS Typography > 1-3
-- [ ] HW: Add a responsive layout to your site and link to index.htm. Could be a list of things, a list of what you've learned, a list of metaphors for the web from earlier in class
-- [ ] Change font with either Google fonts or using fonts.css
-- [ ] Complete Course Survey #2
+- [ ] Read J.R. Carpenter's [Handmade Web](https://www.luckysoap.com/statements/handmadeweb.html)
+- [ ] Read [Critical Engineering Manifesto](https://criticalengineering.org/)
+- [ ] Add custom font to your site with either [Google Fonts](https://www.w3schools.com/csS/css_font_google.asp) or [fonts.css](https://github.com/coding-for-designers/ICD-Course-Reader/blob/main/Tutorials/Custom%20font%20embeds.md)
+- [ ] Add at least one secondary page to your site and link to it from `index.htm`
+- [ ] Complete [Activity—Poster Design](Activity—Poster%20Design.md)
+- [ ] Complete [Course Survey](https://qf60sr898z1.typeform.com/to/MuaAdmjo) <-- New link!!
+
+### Course Reader Sections
+[ICD Course Reader](https://github.com/coding-for-designers/ICD-Course-Reader) relevant sections for reference:
+
+- [ ] [Web Inspector](https://github.com/coding-for-designers/ICD-Course-Reader/blob/main/Tutorials/Web%20Inspector.md)
+- [ ] [Custom Font Embeds](https://github.com/coding-for-designers/ICD-Course-Reader/blob/main/Tutorials/Custom%20font%20embeds.md)
+- [ ] [Background Images & Gradients](https://github.com/coding-for-designers/ICD-Course-Reader/blob/main/Tutorials/Background%20Images%20&%20Gradients.md)
+- [ ] [Sticky Elements](https://github.com/coding-for-designers/ICD-Course-Reader/blob/main/Tutorials/Sticky%20Elements.md)
+- [ ] [Z-Index](https://github.com/coding-for-designers/ICD-Course-Reader/blob/main/Tutorials/Z-Index.md)
+- [ ] [Position](https://github.com/coding-for-designers/ICD-Course-Reader/blob/main/Tutorials/Position.md)
+
 
 ---
 
@@ -137,7 +147,7 @@ By the end of this course, your website should be at least a seedling 🌱. You 
 
 ### Homework
 *I would like to reorganize the course reader before week 5*
-- [ ] Read Zach Mandeville's "Basic HTML Competency is the new Punk-Folk Explosion!"
+- [ ] Read Zach Mandeville's [Basic HTML Competency is the new Punk-Folk Explosion!](https://tilde.town/~zach/folk-html.html)
 - [ ] Read ICD Course Reader > CSS Hover Effects > 1-2
 - [ ] Read ICD Course Reader > CSS Advanced CSS > 1
 - [ ] Read ICD Course Reader > Other Languages > 1
