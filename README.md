@@ -135,36 +135,38 @@ By the end of this course, your website should be at least a seedling 🌱. You 
 ---
 
 ## Week 5 - Handmade Web
-- Mingle in Classroom Gallery
-	- Mini critique
-- Collaborative Annotation - J.R. Carpenter
-- Lecture Slides
-- Sticky Note Storm - Reflection—Handmade web applied to your practice
-- CSS Rotation Demo
-- CSS Hover Demo
-- CSS vs Javascript Design Demo
-- Activity - CSS vs JS
-- Zoom Recording
+- Mingle in Classroom Gallery for Mini critique
+- Review HTML & CSS
+- Discussion - J.R. Carpenter's Handmade Web
+- Slides --> New CSS & HTML techniques
+- Demos, Q&A
+	- [Demo—Display Image on Hover](Demo—Display%20Image%20on%20Hover.md)
+- Choose your own activity:
+	- [CSS Class Review](https://codepen.io/meewgumi/pen/YzxqmXR)
+	- [Keyframe Animation](https://coding-for-designers.github.io/demos/cut-fruit-animation/animations.htm)
 
 ### Homework
-*I would like to reorganize the course reader before week 5*
 - [ ] Read Zach Mandeville's [Basic HTML Competency is the new Punk-Folk Explosion!](https://tilde.town/~zach/folk-html.html)
-- [ ] Read ICD Course Reader > CSS Hover Effects > 1-2
-- [ ] Read ICD Course Reader > CSS Advanced CSS > 1
-- [ ] Read ICD Course Reader > Other Languages > 1
-- [ ] Read ICD Course Reader > Programs & Tools > 7, 9-11
-- [ ] Read ICD Course Reader > Meta > 1-2
-- [ ] Polish your website for critique next week. Make sure all pages are linked!
-	- [ ] Add activity for CSS or JS Animation on index.htm
+- [ ] Polish your website for critique next week.
+	- [ ] Make sure all pages are linked!
 	- [ ] Add screenshots and URL to Figjam Classroom Gallery
 - [ ] Bring a vintage or lo-fi device with wifi to the next class for testing!
+
+### Course Reader Sections
+[ICD Course Reader](https://github.com/coding-for-designers/ICD-Course-Reader) relevant sections for reference:
+
+- [:before and :after](https://github.com/coding-for-designers/ICD-Course-Reader/blob/main/Tutorials/before,%20after,%20and%20content.md)
+- [Meta tags for SEO](https://github.com/coding-for-designers/ICD-Course-Reader/blob/main/Tutorials/Meta%20tags%20for%20SEO.md)
+- [Meta Tags for SMS & Social](https://github.com/coding-for-designers/ICD-Course-Reader/blob/main/Tutorials/Meta%20tags%20for%20SMS%20&%20Social.md)
+- [Optimizing Site Speed](https://github.com/coding-for-designers/ICD-Course-Reader/blob/main/Tutorials/Optimizing%20Site%20Speed.md)
+- [iOS Safari Web Inspector](https://github.com/coding-for-designers/ICD-Course-Reader/blob/main/Tutorials/iOS%20Safari%20Web%20Inspector.md)
 
 ---
 
 ## Week 6 - Website as Craft
 Share your final project—a completely handmade website. Reflect on progress with your peers as we test each other's sites on vintage computing devices.
 
-Make sure your final project is published to the [Figjam Classroom gallery](https://www.figma.com/community/file/850808867475521074/Classroom-Gallery) by the start of class
+Make sure your final project is published to the [Figjam Classroom gallery](https://www.figma.com/community/file/850808867475521074/Classroom-Gallery) by the start of class!
 
 ---
 
